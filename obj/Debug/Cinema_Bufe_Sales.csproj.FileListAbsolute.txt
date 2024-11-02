@@ -1,0 +1,11 @@
+D:\udemyProjeler\Cinema_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\bin\Debug\Cinema_Bufe_Sales.exe.config
+D:\udemyProjeler\Cinema_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\bin\Debug\Cinema_Bufe_Sales.exe
+D:\udemyProjeler\Cinema_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\bin\Debug\Cinema_Bufe_Sales.pdb
+D:\udemyProjeler\Cinema_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\obj\Debug\Cinema_Bufe_Sales.csproj.AssemblyReference.cache
+D:\udemyProjeler\Cinema_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\obj\Debug\Cinema_Bufe_Sales.Form1.resources
+D:\udemyProjeler\Cinema_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\obj\Debug\Cinema_Bufe_Sales.Properties.Resources.resources
+D:\udemyProjeler\Cinema_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\obj\Debug\Cinema_Bufe_Sales.csproj.GenerateResource.cache
+D:\udemyProjeler\Cinema_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\obj\Debug\Cinema_Bufe_Sales.csproj.CoreCompileInputs.cache
+D:\udemyProjeler\Cinema_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\obj\Debug\Cinema_Bufe_Sales.exe
+D:\udemyProjeler\Cinema_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\obj\Debug\Cinema_Bufe_Sales.pdb
+D:\udemyProjeler\Cinema_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\obj\Debug\Cinema_Bufe_Sales.Math.resources
